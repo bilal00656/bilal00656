@@ -22,6 +22,12 @@ Building modern web applications, AI-based projects, and software solutions.
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,php,mysql,git,github,vscode" />
+</p>
+
 ### Languages
 - C
 - C++
