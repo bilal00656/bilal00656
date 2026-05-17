@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Hassan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=BSCS+Student;Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Real+World+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=BS+Computer+Science+Student;Full+Stack+Developer;Cybersecurity+Enthusiast;Building+Real+World+Projects&center=true&width=500&height=50">
 </p>
 
 <p align="center">
