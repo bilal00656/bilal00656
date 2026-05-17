@@ -78,7 +78,7 @@ Personal responsive portfolio showcasing projects, certifications, and technical
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilal00656&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal00656&layout=compact" />
 </p>
 
 <p align="center">
