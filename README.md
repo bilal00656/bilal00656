@@ -39,21 +39,6 @@ Building modern web applications, AI-based projects, and software solutions.
 
 ---
 
-## 🚀 Top Projects
-
-<p align="center">
-
-<a href="https://bilal00656.github.io/Bilal-Hassan-portfolio-website/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal00656&repo=Bilal-Hassan-portfolio-website&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/bilal00656">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal00656&repo=Rhombix_Technologies_Task-2&theme=tokyonight" />
-</a>
-
-</p>
-
----
 
 ## 🌐 Live Portfolio
 
