@@ -23,15 +23,19 @@ Building modern web applications, AI-based projects, and software solutions.
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=c" height="40"/> C , </p> <p align="left"> <img src="https://skillicons.dev/icons?i=cpp" height="40"/> C++ , </p> <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="40"/> Python ,</p> <p align="left"> <img src="https://skillicons.dev/icons?i=javascript" height="40"/>JavaScript ,</p> <p align="left"> <img src="https://skillicons.dev/icons?i=sql" height="40"/> SQL .</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,sql" />
+</p>
 
 ### 🌐 Web Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=html" height="40"/><br> HTML </p> <p align="left"> <img src="https://skillicons.dev/icons?i=css" height="40"/><br> CSS </p> <p align="left"> <img src="https://skillicons.dev/icons?i=javascript" height="40"/><br> JavaScript </p> <p align="left"> <img src="https://skillicons.dev/icons?i=php" height="40"/><br> PHP </p> <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" height="40"/><br> MySQL </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" />
+</p>
 
 ### ⚙️ Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=git" height="40"/><br> Git </p> <p align="left"> <img src="https://skillicons.dev/icons?i=github" height="40"/><br> GitHub </p> <p align="left"> <img src="https://skillicons.dev/icons?i=vscode" height="40"/><br> VS Code </p> <p align="left"> <img src="https://skillicons.dev/icons?i=opencv" height="40"/><br> OpenCV </p>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,opencv" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -61,6 +65,12 @@ Personal responsive portfolio showcasing projects, certifications, and technical
 - Google Career Certificates (In Progress)
 
 ---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilal00656&show_icons=true" />
+</p>
 
 ## 📈 GitHub Stats
 
