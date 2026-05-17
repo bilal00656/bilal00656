@@ -78,7 +78,7 @@ Personal responsive portfolio showcasing projects, certifications, and technical
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bilal00656&show_icons=true" />
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ Personal responsive portfolio showcasing projects, certifications, and technical
 ## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/bilal-hassan-1a4561331 
-- Portfolio: https://bilal00656.github.io/Bilal-Hassan-portfolio-website/
+- Portfolio: https://bilal00656.github.io/Bilal-Hassan-portfolio-website/  
 - Email: bilaltohassan2@gmail.com
 
 ---
