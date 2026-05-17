@@ -69,7 +69,7 @@ Personal responsive portfolio showcasing projects, certifications, and technical
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilal00656&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bilal00656&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 📈 GitHub Stats
@@ -79,7 +79,7 @@ Personal responsive portfolio showcasing projects, certifications, and technical
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal00656" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal00656&theme=tokyonight" />
 </p>
 
 ---
