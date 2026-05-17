@@ -22,33 +22,14 @@ Building modern web applications, AI-based projects, and software solutions.
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
+### 💻 Programming Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=c" height="40"/><br> C </p> <p align="left"> <img src="https://skillicons.dev/icons?i=cpp" height="40"/><br> C++ </p> <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="40"/><br> Python </p> <p align="left"> <img src="https://skillicons.dev/icons?i=javascript" height="40"/><br> JavaScript </p> <p align="left"> <img src="https://skillicons.dev/icons?i=sql" height="40"/><br> SQL </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,php,mysql,git,github,vscode" />
-</p>
+### 🌐 Web Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=html" height="40"/><br> HTML </p> <p align="left"> <img src="https://skillicons.dev/icons?i=css" height="40"/><br> CSS </p> <p align="left"> <img src="https://skillicons.dev/icons?i=javascript" height="40"/><br> JavaScript </p> <p align="left"> <img src="https://skillicons.dev/icons?i=php" height="40"/><br> PHP </p> <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" height="40"/><br> MySQL </p>
 
-### Languages
-- C
-- C++
-- Python
-- SQL
-- JavaScript
-
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- XAMPP
-- OpenCV
-- MediaPipe
+### ⚙️ Tools & Platforms
+<p align="left"> <img src="https://skillicons.dev/icons?i=git" height="40"/><br> Git </p> <p align="left"> <img src="https://skillicons.dev/icons?i=github" height="40"/><br> GitHub </p> <p align="left"> <img src="https://skillicons.dev/icons?i=vscode" height="40"/><br> VS Code </p> <p align="left"> <img src="https://skillicons.dev/icons?i=opencv" height="40"/><br> OpenCV </p>
 
 ---
 
