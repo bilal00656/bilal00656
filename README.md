@@ -82,7 +82,7 @@ Personal responsive portfolio showcasing projects, certifications, and technical
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal00656" />
 </p>
 
 ---
