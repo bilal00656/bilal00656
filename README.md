@@ -48,7 +48,7 @@ Building modern web applications, AI-based projects, and software solutions.
 </a>
 
 <a href="https://github.com/bilal00656">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal00656&repo=ConnectMe&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilal00656&repo=Rhombix_Technologies_Task-2&theme=tokyonight" />
 </a>
 
 </p>
