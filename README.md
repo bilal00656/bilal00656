@@ -23,7 +23,7 @@ Building modern web applications, AI-based projects, and software solutions.
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=c" height="40"/><br> C </p> <p align="left"> <img src="https://skillicons.dev/icons?i=cpp" height="40"/><br> C++ </p> <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="40"/><br> Python </p> <p align="left"> <img src="https://skillicons.dev/icons?i=javascript" height="40"/><br> JavaScript </p> <p align="left"> <img src="https://skillicons.dev/icons?i=sql" height="40"/><br> SQL </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c" height="40"/> C , </p> <p align="left"> <img src="https://skillicons.dev/icons?i=cpp" height="40"/> C++ , </p> <p align="left"> <img src="https://skillicons.dev/icons?i=python" height="40"/> Python ,</p> <p align="left"> <img src="https://skillicons.dev/icons?i=javascript" height="40"/>JavaScript ,</p> <p align="left"> <img src="https://skillicons.dev/icons?i=sql" height="40"/> SQL .</p>
 
 ### 🌐 Web Development
 <p align="left"> <img src="https://skillicons.dev/icons?i=html" height="40"/><br> HTML </p> <p align="left"> <img src="https://skillicons.dev/icons?i=css" height="40"/><br> CSS </p> <p align="left"> <img src="https://skillicons.dev/icons?i=javascript" height="40"/><br> JavaScript </p> <p align="left"> <img src="https://skillicons.dev/icons?i=php" height="40"/><br> PHP </p> <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" height="40"/><br> MySQL </p>
