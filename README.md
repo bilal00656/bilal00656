@@ -13,55 +13,61 @@ Building modern web applications, AI-based projects, and software solutions.
 ## 👨‍💻 About Me
 
 - 🎓 BS Computer Science Student at Superior University Lahore
-- 💻 Passionate about Full Stack Development & Cybersecurity
-- 🧠 Interested in AI, Data Science, and Software Engineering
-- 🚀 Building real-world projects and continuously improving my skills
-- 📚 Currently learning advanced web technologies and cybersecurity concepts
+- 💻 Full Stack Developer focused on practical projects
+- 🧠 Interested in AI, Data Science, and Cybersecurity
+- 🚀 Building real-world applications and improving daily
+- 📚 Currently learning advanced web development and security concepts
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,sql" />
 </p>
 
+---
+
 ### 🌐 Web Development
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" />
 </p>
 
+---
+
 ### ⚙️ Tools & Platforms
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,opencv" />
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
-### 🔹 ConnectMe Social Network
-A full-stack social networking platform with authentication, user profiles, posting system, and responsive UI.
+- 🔹 **ConnectMe Social Network**  
+Full-stack social platform with authentication, posts, and user system.
 
-### 🔹 Gym Membership Management System
-Database-driven gym management solution with attendance, membership, workout plans, and reporting features.
+- 🔹 **Gym Management System**  
+Database-based system for gym operations, attendance, and reports.
 
-### 🔹 Air Canvas Virtual Pen
-AI & Computer Vision project using OpenCV and MediaPipe for real-time hand tracking virtual drawing.
+- 🔹 **Air Canvas Virtual Pen**  
+AI-based hand tracking drawing tool using OpenCV.
 
-### 🔹 Library Management System
-C++ OOP-based management system implementing core object-oriented programming concepts.
+- 🔹 **Library Management System**  
+C++ OOP project implementing core software design concepts.
 
-### 🔹 Portfolio Website
-Personal responsive portfolio showcasing projects, certifications, and technical skills.
+- 🔹 **Portfolio Website**  
+Personal website showcasing skills and projects.
 
 ---
 
 ## 📜 Certifications
 
-- C++ Certification
-- Python Certification
-- SQL Certification
-- Web Development Certification
+- C++ Certification  
+- Python Certification  
+- SQL Certification  
+- Web Development Certification  
 - Google Career Certificates (In Progress)
 
 ---
@@ -72,12 +78,6 @@ Personal responsive portfolio showcasing projects, certifications, and technical
   <img src="https://github-readme-stats.vercel.app/api?username=bilal00656&show_icons=true&theme=tokyonight" />
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilal00656&layout=compact" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal00656&theme=tokyonight" />
 </p>
@@ -86,9 +86,9 @@ Personal responsive portfolio showcasing projects, certifications, and technical
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/bilal-hassan-1a4561331 
-- Portfolio: https://bilal00656.github.io/Bilal-Hassan-portfolio-website/  
-- Email: bilaltohassan2@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/bilal-hassan-1a4561331  
+- 🌐 Portfolio: https://bilal00656.github.io/Bilal-Hassan-portfolio-website/  
+- 📧 Email: bilaltohassan2@gmail.com  
 
 ---
 
