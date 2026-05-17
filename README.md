@@ -67,22 +67,11 @@ Building modern web applications, AI-based projects, and software solutions.
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilal00656&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal00656&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bilal00656/bilal00656/output/snake.svg" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
