@@ -75,7 +75,7 @@ Building modern web applications, AI-based projects, and software solutions.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bilal00656/bilal00656/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/bilal00656/bilal00656/output/snake-dark.svg" />
 </p>
 
 ---
