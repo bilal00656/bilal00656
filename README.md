@@ -43,7 +43,7 @@ Building modern web applications, AI-based projects, and software solutions.
 ## 🌐 Live Portfolio
 
 <p align="center">
-  <a href="https://bilal00656.github.io/Bilal-Hassan-portfolio-website/">
+  <a href="[https://bilal00656.github.io/Bilal-Hassan-portfolio-website/](https://bilal00656.github.io/Bilal-Hassan-Portfolio/)">
     <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge&logo=google-chrome" />
   </a>
 
